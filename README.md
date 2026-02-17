@@ -120,7 +120,7 @@ This project demonstrates practical data analysis, SQL querying, and dashboard d
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/MOHAMMEDARMANALI/customer_behaviour_analysis.git
+git clone https://github.com/MOHAMMEDARMANALI/customer_behavior_analysis.git
 ```
 
 ### Step 2: Install Required Python Libraries
